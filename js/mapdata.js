@@ -95,9 +95,9 @@ var simplemaps_countrymap_mapdata={
       "4": {
         name: "Assam",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
-        inactive: "yes",
+        color: "default",
+        hover_color:  "#03ADEE",
+        //inactive: "yes",
         //url: "default"
       },
       "5": {
@@ -191,18 +191,18 @@ var simplemaps_countrymap_mapdata={
       "17": {
         name: "Karnataka",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
-        inactive: "yes",
+        color: "default",
+        hover_color:  "#03ADEE",
+        //inactive: "yes",
         //url: "default"
       },
       "18": {
         name: "Kerala",
         description:"",
-        color: "#fff",
-        hover_color:  "#fff",
-        inactive: "yes",
-        url: "default"
+        color: "default",
+        hover_color:  "#03ADEE",
+        //inactive: "yes",
+        //url: "default"
       },
       "19": {
         name: "Lakshadweep",
@@ -222,9 +222,9 @@ var simplemaps_countrymap_mapdata={
       "21": {
         name: "Maharashtra",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
-        inactive: "yes",
+        color: "default",
+        hover_color:  "#03ADEE",
+        //inactive: "yes",
         //url: "default"
       },
       "22": {
@@ -262,8 +262,8 @@ var simplemaps_countrymap_mapdata={
       "26": {
         name: "Odisha",
         description:"",
-        color: "#fff",
-        hover_color:  "#fff",
+        color: "default",
+        hover_color:  "#03ADEE",
         url: "default"
       },
       "27": {
@@ -299,8 +299,8 @@ var simplemaps_countrymap_mapdata={
       "31": {
         name: "Tamil Nadu",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
+        color: "default",
+        hover_color:  "#03ADEE",
         //url: "default"
       },
       "32": {
@@ -328,8 +328,8 @@ var simplemaps_countrymap_mapdata={
       "35": {
         name: "West Bengal",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
+        color: "default",
+        hover_color:  "#03ADEE",
         url: "default"
       },
       "36": {
